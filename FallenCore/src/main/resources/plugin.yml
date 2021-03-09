@@ -1,0 +1,5 @@
+name: FallenCore
+version: @version@
+main: fr.fallendeve2.fallencore.FallenCore
+authors: [FallenDeveloper]
+description: Core plugin for all plugins by FallenDeveloper
