@@ -1,0 +1,5 @@
+name: Elephant
+version: @version@
+main: fr.fallendeve2.elephant.Elephant
+authors: [FallenDeve]
+description: A description ? Who said we need a description ?!
